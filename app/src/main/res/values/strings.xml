@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="restart">Restart</string>
+    <string name="moves_made">Moves %d</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+</resources>
