@@ -7,3 +7,7 @@ Flickr API key needs to be generated in order ti use the app. After you obtain t
 ```
 flickr_api_key=YOUR_KEY_GOES_HERE
 ```
+
+<div style="text-align:center">
+  <img src ="files/memory.gif" alt="memory" width="250" height="450" />
+</div>
